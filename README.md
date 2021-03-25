@@ -1,2 +1,2 @@
-# JavaScript_ES6_DIO
+# JavaScript_DIO
 Aula de JavaScript ES6 essencial
